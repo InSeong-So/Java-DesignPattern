@@ -1,4 +1,4 @@
-package designPattern.singleton;
+package designPattern.pattern05.singleton;
 
 public class Singleton {
 	// 기본
