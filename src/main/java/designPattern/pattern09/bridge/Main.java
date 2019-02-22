@@ -1,4 +1,4 @@
-package designPattern.pattern08.bridge;
+package designPattern.pattern09.bridge;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package designPattern.pattern09.strategy;
+package designPattern.pattern10.strategy;
 
 public class Player {
 
